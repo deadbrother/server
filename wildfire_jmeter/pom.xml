@@ -12,7 +12,7 @@
   <artifactId>wildfire-jmeter</artifactId>
 
   <properties>
-		<jmeter-version>3.3</jmeter-version>
+		<jmeter-version>4.0</jmeter-version>
 	</properties>
 
 	<dependencies>
